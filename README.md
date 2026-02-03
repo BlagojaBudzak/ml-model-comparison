@@ -54,7 +54,6 @@ ml-model-comparison/
 
 ```bash
 git clone https://github.com/BlagojaBudzak/ml-model-comparison.git
-cd ml-model-comparison
 ```
 
 # 2. Install dependencies:
