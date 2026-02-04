@@ -4,6 +4,7 @@ This repository contains implementations of **regression, classification, and cl
 
 ## Project Structure
 
+```
 ml-model-comparison/
 ├── data/
 │ ├── Mall_Customers.csv
@@ -19,6 +20,7 @@ ml-model-comparison/
 │ └── regression_models.py
 ├── README.md
 └── requirements.txt
+```
 
 - `data/` – CSV datasets for each type of model  
 - `notebooks/` – Jupyter notebooks for exploration and plotting  
@@ -48,11 +50,10 @@ ml-model-comparison/
 
 ## Usage
 
-1. Clone the repository:
+# 1. Clone the repository:
 
 ```bash
 git clone https://github.com/BlagojaBudzak/ml-model-comparison.git
-cd ml-model-comparison
 ```
 
 # 2. Install dependencies:
