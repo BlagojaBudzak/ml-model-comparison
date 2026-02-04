@@ -86,4 +86,4 @@ python src/classification_models.py
 python src/clustering_models.py
 ```
 
-# Developed by Blagoja Budzakoski
+## 🏆Developed by Blagoja Budzakoski
